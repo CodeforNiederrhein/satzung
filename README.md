@@ -1,4 +1,4 @@
-# Satzung des vereins Code for Niederrhein (e.V.)
+# Satzung des Vereins Code for Niederrhein (e.V.)
 
 Diese Repository dient zur Entwicklung und Diskussion der Satzung. 
 
